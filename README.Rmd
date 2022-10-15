@@ -1,0 +1,11 @@
+---
+title: "GoT survival analysis"
+author: "Lars Mølgaard Saxhaug"
+date: "`r Sys.Date()`"
+output: github_document
+csl: jama.csl
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE,warning = FALSE)
+```
